@@ -1,8 +1,6 @@
 # Goat Curry
-
-### Image
 ![Goat curry](goat-curry.jpg)
-[*YouTube*](https://www.youtube.com/watch?v=ffsR1kS7oE8)
+[*Watch me cook this on YouTube*](https://www.youtube.com/watch?v=ffsR1kS7oE8)
 
 ### Why this Dish?
 Goat curry reminds me of Amma's house. We even eat this on Thanksgiving instead of turkey usually with Appam and coconut sambal.
@@ -16,7 +14,7 @@ Goat curry reminds me of Amma's house. We even eat this on Thanksgiving instead 
 1. 2 tsp of oil
 1. ½ an onion
 1. half a stick of cinnamon
-1. 1 lb of goat meat
+1. 1 lb of goat (or lamb)
 1. 2 tsp of fenugreek
 1. 1 heaping teaspoon of curry powder
 1. 2 gloves garlic minced
@@ -48,4 +46,4 @@ The above is for 1 pound, I usually do 6-7 pounds at a time (whole back goat leg
 1. Add grinder five spice and finish for five minutes
 
 ##### Tags
-Amma, Tamil, Goat, Protein, Curry, Meat
+Amma, Tamil, Goat, Lamb, Protein, Curry, Meat
