@@ -14,12 +14,14 @@ The light, crispy, fermented, and spiced batter right out of the fryer with coco
 1. Food processor
 
 ### Ingredients
-1. Ulunthu
+1. Ulunthu - 200g
 1. Water to cover
-1. Onion
-1. Long Green Chili
-1. Ginger
-1. Fennel seeds
+1. 1 Onion
+1. 2 Long Green Chili
+1. 1/3 inch Ginger
+1. Fennel seeds 1 TBSP
+1. 1/4 tsp baking powder
+    * baking powder gives it the light internal texture
 1. Oil for frying
 
 ### Preparation
