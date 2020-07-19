@@ -16,7 +16,7 @@ The light, crispy, fermented, and spiced batter right out of the fryer with coco
 ### Ingredients
 1. Ulunthu - 200g
 1. Water to cover
-1. 1 Onion
+1. 1/2 Onion
 1. 2 Long Green Chili
 1. 1/3 inch Ginger
 1. Fennel seeds 1 TBSP
