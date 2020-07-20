@@ -24,6 +24,7 @@ Fresh, citrusy way to use up left over rice!
 ### Preparation
 1. Zest a lemon
 1. Juice a lemon
+1. Dice onion
 
 ### Steps
 1. Heat oil with mustard seeds until popped
