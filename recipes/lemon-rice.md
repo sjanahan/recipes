@@ -1,5 +1,5 @@
 # Lemon Rice
-![Lemon Rice](lemon-rice.jpg)
+![Lemon Rice](../images/lemon-rice.jpg)
 [*YouTube Link Placeholder*]()
 
 ### Why this Dish?

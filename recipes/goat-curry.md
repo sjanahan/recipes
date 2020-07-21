@@ -1,5 +1,5 @@
 # Goat Curry
-![Goat curry](goat-curry.jpg)
+![Goat curry](../images/goat-curry.jpg)
 [*Watch me cook this on YouTube*](https://www.youtube.com/watch?v=ffsR1kS7oE8)
 
 ### Why this Dish?
