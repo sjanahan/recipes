@@ -1,7 +1,5 @@
 # Yogurt Rice
-
-### Image
-![Yogurt Rice](yogurt-rice.jpg)
+![Yogurt Rice](../images/yogurt-rice.jpg)
 [*Future YouTube Link*]()
 
 ### Why this Dish?
