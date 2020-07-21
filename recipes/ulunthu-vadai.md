@@ -1,5 +1,5 @@
 # Ulunthu Vadai
-![Lemon Rice](../images/lemon-rice.jpg)
+![Lemon Rice](../images/uluntu-vadai.jpg)
 [*YouTube Link Placeholder*]()
 
 ### Why this Dish?

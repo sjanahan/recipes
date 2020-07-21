@@ -1,5 +1,5 @@
 # Yogurt Rice
-![Yogurt Rice](../images/yogurt-rice.jpg)
+![Lemon Rice](../images/yogurt-rice.jpg)
 [*Future YouTube Link*]()
 
 ### Why this Dish?
