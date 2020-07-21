@@ -1,7 +1,7 @@
 # Ulunthu Vadai
-![Ulunthu Vadai](ulunthu-vadai.jpg)
-
+![Lemon Rice](../images/lemon-rice.jpg)
 [*YouTube Link Placeholder*]()
+
 ### Why this Dish?
 The light, crispy, fermented, and spiced batter right out of the fryer with coconut sambol is sensory surprise every time. 
 
