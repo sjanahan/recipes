@@ -8,7 +8,7 @@ This is the #1 dish I ask for when I go home. Pictured above is what we have for
 ### Tools
 1. Appam chattee (Hopper pan)
 1. Tiny spatula
-1. 
+1. Cooling rack
 
 ### Ingredients
 1. 200g parts rice flour
@@ -27,7 +27,8 @@ None
 1. Mix the above - aim for thick batter
 1. Let sit overnight
 1. Reconstitute with coconut milk, baking powder, and whip it
-1. Cook in the appa chattai
+1. Cook in the appa chattai until crispy edges
+1. Use tiny spatula to move to a cooling rack
 
 ##### Tags
 Tamil, Thanksgiving, Vegan, Vegetarian, Carbs
