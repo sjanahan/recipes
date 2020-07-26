@@ -20,6 +20,7 @@ Blue Crab is readily available in Maryland where I grew up and Appa loves making
 1. 2 Tamilspoons Jaffna Curry powder
 1. 10 Curry Leaves
 1. 10 blue crabs
+1. 2 tsp sea salt
 
 ### Preparation
 1. Dice the onion
@@ -32,6 +33,7 @@ Blue Crab is readily available in Maryland where I grew up and Appa loves making
 1. Add garlic, ginger, fennel, and curry powder - around 4 min
 1. Add the cleaned, split blue crab - cook until red
 1. Finish with curry leaves
+1. Salt to taste
 
 ##### Tags
 Appa, Tamil, Protein, Seafood, Pescatarian
