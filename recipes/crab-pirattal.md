@@ -14,13 +14,14 @@ Blue Crab is readily available in Maryland where I grew up and Appa loves making
 1. Sharp Knife
 
 ### Ingredients
-1. Gingelly oil
-1. Onion
-1. Garlic
-1. Ginger
-1. Fennel seeds
-1. Curry powder
-1. Curry Leaves
+1. 1 TBSP Gingelly oil
+1. 1/4 Onion
+1. 4 gloves Garlic
+1. 1/3 inch Ginger
+1. 2 tsp Fennel seeds
+1. 2 Tamilspoons Curry powder
+1. 10 Curry Leaves
+1. 10 blue crabs
 
 ### Preparation
 1. Dice the onion
