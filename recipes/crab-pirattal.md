@@ -17,7 +17,7 @@ Blue Crab is readily available in Maryland where I grew up and Appa loves making
 1. 4 gloves Garlic
 1. 1/3 inch Ginger
 1. 2 tsp Fennel seeds
-1. 2 Tamilspoons Curry powder
+1. 2 Tamilspoons Jaffna Curry powder
 1. 10 Curry Leaves
 1. 10 blue crabs
 
