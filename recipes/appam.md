@@ -9,13 +9,14 @@ This is the #1 dish I ask for when I go home. Pictured above is what we have for
 1. Appam chattee (Hopper pan)
 1. Tiny spatula
 1. Cooling rack
+1. Egg beater (aeration mechanism)
 
 ### Ingredients
 1. 200g parts rice flour
 1. 100g part AP flour
 1. 1 TBSP Sugar 
 1. 1 TBSP Salt 
-1. 3g Active Dry Yeast
+1. 3g Instant Dry Yeast
 1. 300g parts Water 
 1. Coconut milk
 2. Baking powder
@@ -26,7 +27,7 @@ None
 ### Steps
 1. Mix the above - aim for thick batter
 1. Let sit overnight
-1. Reconstitute with coconut milk, baking powder, and whip it
+1. Reconstitute with coconut milk, baking powder, and whip it (egg beater works well here)
 1. Cook in the appa chattai until crispy edges
 1. Use tiny spatula to move to a cooling rack
 
