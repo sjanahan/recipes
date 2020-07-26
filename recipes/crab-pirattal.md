@@ -1,6 +1,4 @@
 # Crab Pirattal
-
-### Image
 ![Crab Pirattal](../images/crab-pirattal.jpg)
 [*Future YouTube Link*]()
 
