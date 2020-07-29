@@ -13,7 +13,7 @@ It's Amma's specialty and she usually makes it on Fridays
 
 ### Ingredients
 1. 1.5 tsps of venthayam (fenugreek seeds)
-1. 1 cup ulunthu (shelled, spit black gram lentil)
+1. 1 cup ulunthu (shelled, split black gram lentil)
 1. 0.5 cups rice flour
 1. 0.5 cups rava (semolina/sooji course)
 1. 1/4 onion
