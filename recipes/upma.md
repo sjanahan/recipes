@@ -12,6 +12,7 @@ Amma used to make this with pan-fried curried potatoes and curry omelette!
 1. Chef's Knife
 
 ### Ingredients
+1. 2 TBSP oil
 1. 350g sooji
 1. 1/2 an onion
 1. TBSP of black mustard seeds
