@@ -1,5 +1,5 @@
 # Payasam
-TODO pic
+![payasam](../images/payasam.jpg)
 [*Future YouTube Link*]()
 
 ### Why this Dish?
@@ -12,12 +12,15 @@ Amma used to make this when I was a kid. It was also my first introduction to ta
 
 ### Ingredients
 1. 1 cup tapioca pearls
-1. 13 cups of water
+1. 3 cups of water
 1. 3-4 cloves
 1. 3-4 cardamom 
 1. 1/3 cup cashews, chopped
 1. 1/3 cup raisins
 1. 2-3 tablespoons butter
+1. 4 TBSP sugar
+1. 8oz condensed milk
+1. 1 tsp vanilla
 1. Pinch of salt
 
 ### Preparation
