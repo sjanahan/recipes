@@ -1,4 +1,4 @@
-# Paysasam
+# Payasam
 TODO pic
 [*Future YouTube Link*]()
 
