@@ -18,6 +18,7 @@ Amma used to make this with pan-fried curried potatoes and curry omelette!
 1. 525g water
 1. 250g mixed veg
 1. 1/2 inch ginger
+1. Salt to taste
 
 ### Preparation
 1. Dice onion
