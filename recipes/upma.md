@@ -3,7 +3,7 @@
 [*Future YouTube Link*]()
 
 ### Why this Dish?
-Amma used to make this with fried curried potatoes and curry omelette!
+Amma used to make this with pan-fried curried potatoes and curry omelette!
 
 ### Tools
 1. Heavy bottomed pot
