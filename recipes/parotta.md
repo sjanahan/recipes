@@ -29,7 +29,7 @@ I've loved this dish since as long as I can remember. At home, usually we had it
 1. Add warm water
 1. Knead for 10 minutes
 1. Create uniform balls (by stretching it on itself to create a clean skin) by weight
-1. Submerge balls in oil
+1. Submerge balls in oil for 1-2 hours
 1. Flatten on counter until see through 
     * Don't worry if it tears a bit
 1. Pick it up from the end, twist it, and coil it onto itself
