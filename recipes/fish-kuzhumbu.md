@@ -16,7 +16,7 @@ Amma and Appa make it and I love it and it's always slightly different and it do
 1. 1/2 Onions - sliced long
 1. 4 Green chilies - split
 1. 4 cloves Garlic
-1. 1 TBSP Venthayam 
+1. 1 TBSP Venthayam (fenugreek seeds)
 1. 1 tsp Coriander powder 
 1. 1 tsp cynub oiwder
 1. 3 tamilspoons Curry powder
