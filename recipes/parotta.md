@@ -1,5 +1,4 @@
 # Parotta
-![Parotta](../images/parotta-0.jpg)
 ![Parotta and Mutton Curry](../images/parotta-1.jpg)
 [*Kitchen Guerrilla Highlight*](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODcyNDAxOTEwNjY3ODc3?igshid=8g8jbni61adc&story_media_id=2298661892505996627)
 
