@@ -1,6 +1,6 @@
 # Veechu Roti
-![Veechu Roti](../images/veechu-roti.jpg)
-[*Optional YouTube Link*]()
+![Veechu Roti and Uraippu Shrimp](../images/veechu-roti.jpg)
+[*Kitchen Guerrilla Highlight*](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODU1Njc3NTk0Njc4NjM5?igshid=u9rd2tywgmy5&story_media_id=2197781447130298582)
 
 ### Why this Dish?
 The first time I had this was in Canada with my Chithappa when I was 5 or 6 years old. The first time homemade was by Appachi! She made it when we visited her in Sydney. This recipe is by Kitchen Guerrilla, though.
