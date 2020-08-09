@@ -1,6 +1,6 @@
-# Dish Title
-![Images](../images/*.jpg)
-[*Future YouTube Link*]()
+# Veechu Roti
+![Veechu Roti](../images/)
+[*Optional YouTube Link*]()
 
 ### Why this Dish?
 
