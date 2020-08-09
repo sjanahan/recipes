@@ -33,7 +33,7 @@ I've loved this dish since as long as I can remember. At home, usually we had it
 1. Flatten on counter until see through 
     * Don't worry if it tears a bit
 1. Pick it up from the end, twist it, and coil it onto itself
-1. Cover with a damn towel for 1-2 hours
+1. Cover with a damp towel for 1-2 hours
 1. Flatten by hand
 1. Heat up cast iron pan on medium high 
 1. Add ghee to pan
