@@ -21,6 +21,7 @@ The first time I had this was in Canada with my Chithappa when I was 5 or 6 year
 
 ### Preparation
 1. Weigh out the flour, baking powder, salt, oil, coconut, and water
+1. Make sure the counter is clean for stretching!
 
 ### Steps
 1. Mix dry ingredients (flour, baking powder, and salt) with coconut and oil

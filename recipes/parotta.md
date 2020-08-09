@@ -23,6 +23,7 @@ I've loved this dish since as long as I can remember. At home, usually we had it
 
 ### Preparation
 1. Weigh out the flour, baking powder, salt, oil, ghee, and water
+1. Make sure the counter is clean for stretching!
 
 ### Steps
 1. Mix dry ingredients (flour, baking powder, and salt) with ghee and oil
