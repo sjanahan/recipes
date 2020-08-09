@@ -13,7 +13,6 @@ The first time I had this was in Canada with my Chithappa when I was 5 or 6 year
 
 ### Ingredients
 1. 360g wheat flour ("all purpose" flour)
-1. 4g baking powder
 1. 6g salt
 1. 14g oil
 1. 14g coconut oil
