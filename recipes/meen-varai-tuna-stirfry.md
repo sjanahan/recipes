@@ -18,6 +18,16 @@ Amma and Appa made this for me in sandwich toasters to bring to school when I wa
 1. 4 small hot green chilies diced
 1. 27oz of drained tuna
 1. 4 heaping teaspoons of curry powder
+    * What kind of curry powder? We usually buy one but it's hard to find so here's Appachi's blend
+        * 1 pound dry chillies 
+        * 1/2 pound coriander 
+        * 1/4 pound fennel 
+        * 1/4 pound black pepper  
+        * 1/8 pound of fenugreek
+        * 1/8 pound of cumin
+        * Dash of turmeric 
+            * All should be roasted .
+            * Could use powdered ingredients as well to get the same results
 1. 1 Lime
 1. bunch of curry leaves
 1. salt
@@ -40,4 +50,4 @@ Amma and Appa made this for me in sandwich toasters to bring to school when I wa
 1. Squeeze the lime and shredd the curry leaves and mix through
 
 ##### Tags
-Amma, Appa, Tamil, protein, lunch
+Amma, Appa, Appachi, Tamil, protein
