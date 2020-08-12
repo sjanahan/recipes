@@ -3,7 +3,7 @@
 [*Future YouTube Link*]()
 
 ### Why this Dish?
-Amma and Appa made this for me in sandwich toasters to bring to school when I was a kid. Eventually my friends at school wanted to trade me food for the tuna varai sandwich toaster trianglges
+Amma and Appa made this for me in sandwich toasters to bring to school when I was a kid. Eventually my friends at school wanted to trade me food for the tuna varai sandwich toaster triangles.
 
 ### Tools
 1. Cutting board
