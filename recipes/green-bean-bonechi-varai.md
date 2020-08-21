@@ -30,7 +30,7 @@ Another staple Amma made growing up. This version is Appachi's twist, with omam 
 1. Heat oil on medium high in a heavy bottom pan
 1. Add the black mustard seeds until they pop
 1. Once almost translucent, add the cumin seeds, omam seeds, and red chilies
-1. Once those smell good, add the green beans
+1. Once those smell good (about 2 minutes), add the green beans
 1. Stir around until beans as soft as you like, about 7 minutes
 1. Add the salt
 
