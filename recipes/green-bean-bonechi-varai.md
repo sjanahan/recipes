@@ -3,7 +3,7 @@
 [*Future YouTube Link*]()
 
 ### Why this Dish?
-Another staple Amma made growing up. This version is Appachi's twist, with omam (ajwain) seeds :)
+Another staple Amma made growing up. This version is Appachi's twist, with omam (ajwain) seeds. This is super good with rose matta rice :)
 
 ### Tools
 1. Cutting board
