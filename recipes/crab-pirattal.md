@@ -12,7 +12,8 @@ Blue Crab is readily available in Maryland where I grew up and Appa loves making
 1. Sharp Knife
 
 ### Ingredients
-1. 1 TBSP Gingelly oil
+1. 1 TBSP Gingelly oil (flavor)
+1. 1 TBSP high smoke point oil (canola, saflower, peanut, etc.)
 1. 1/4 Onion
 1. 4 gloves Garlic
 1. 1/3 inch Ginger
@@ -29,9 +30,10 @@ Blue Crab is readily available in Maryland where I grew up and Appa loves making
 1. Clean the crab, remove bottom shell, split in half
 
 ### Steps
-1. Add gingelly oil, onion and sautee til soft - around 10 min
+1. Add high smoke point oil, onion and sautee til soft - around 10 min
 1. Add garlic, ginger, fennel, and curry powder - around 4 min
 1. Add the cleaned, split blue crab - cook until red
+1. Reduce heat and drizzle gingelly oil
 1. Finish with curry leaves
 1. Salt to taste
 
