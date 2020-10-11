@@ -6,7 +6,7 @@ Some things are annoying and some make it unlivable.
 Five years of living in one has taught me how lots about how to comfortably live in one. Here's what I've learned.
 
 ## Implied Warranty of Habitability
-In 49/50 states (minus Arkansas) in the USA, there is a form of Implied Warranty of Habitability from the landlord to the renter. It states that the infrastructure (water, electrical, gas) of apartment must be in working order and is pest-free. It is _implied_ from the lease you signed.
+In 49/50 states (minus Arkansas) in the USA, there is a form of Implied Warranty of Habitability from the landlord to the renter. It states that the infrastructure (water, electrical, gas) of apartment must be in working order, appliances work, free from mold, and is pest-free. It is _implied_ from the lease you signed.
 
 If this warranty is broke, it puts the management company in breach and rent can be withheld until these are remediated. It's important to check the precedent in your state. Something like the only toilet in my house is not working is a breach while not having window screens is not.
 
@@ -48,5 +48,6 @@ If they are not staying up, that also means that they will leak air when it's co
 Technically, landlords are not responsible for window screens in NYC. On top of that, my apartment has no ventilation systems because it's old. If you open the windows flies will get in. I had to pay a window company $160 for 2 screens. Well worth it to air the place out without flies.
 
 ## Result
-If you employ some of these tips proactively, you can avoid sad time where your apartment is less than livable and your management company is in breach of the Implied Warranty of Habitability or you feel like you need more space.
+Hopefully it won't take you five years to 
+If you employ some of these tips proactively, you can avoid sad time where your apartment is less than livable and your management company is in breach of the Implied Warranty of Habitability.
 
