@@ -47,7 +47,11 @@ If they are not staying up, that also means that they will leak air when it's co
 #### Get some window screens installed
 Technically, landlords are not responsible for window screens in NYC. On top of that, my apartment has no ventilation systems because it's old. If you open the windows flies will get in. I had to pay a window company $160 for 2 screens. Well worth it to air the place out without flies.
 
+#### Change the air valves on your steam radiator
+If they are blocked with calcium from hard water, they won't heat up correctly. Usually it's a plumber who works on these.
+
 ## Result
-Hopefully it won't take you five years to 
+Hopefully it won't take you five years to make your beautiful, old apartment livable.
+
 If you employ some of these tips proactively, you can avoid sad time where your apartment is less than livable and your management company is in breach of the Implied Warranty of Habitability.
 
