@@ -1,4 +1,4 @@
-# How to make an NYC walkup livable?
+# How to make a walkup livable?
 You move into an old building. It's so rustic and chic. It even has exposed brick!
 There's likely so much wrong with it. You might be able to see some, but most are invisible.
 Some things are annoying and some make it unlivable.
