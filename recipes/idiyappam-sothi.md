@@ -16,7 +16,7 @@ That's how Amma got so fast at making both items!
 1. 1 Tbsp Venthayum (Fenugreek Seeds)
 1. 1/2 Sliced white onion
 1. 3 Sliced green long chillies
-1. 1 tsp Tumeric
+1. 1/4 tsp Tumeric
 1. 240 ml Water
 1. 120 ml Coconut milk
 1. 1/2 of a Lime juiced
