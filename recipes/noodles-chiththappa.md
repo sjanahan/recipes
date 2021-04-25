@@ -1,5 +1,5 @@
 # Dish Title
-![Images](../images/noodles-chiththappa.jpg)
+![Images](../images/noodles-chiththappa.png)
 [*Future YouTube Link*]()
 
 ### Why this Dish?
