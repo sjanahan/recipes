@@ -17,15 +17,17 @@ We always joke this is Amma's favorite dish. It's a great way to use up any left
 1. 1/2 red onion diced
 1. 1 TBSP black mustard seeds
 1. 200g thuvaram (toor daal/split pigeon pea)
-1. 454g veg 
+1. 454g frozen broccoli
+1. 140 g diced carrot
 1. 2 tsp tumeric
 1. 3 Tamilspoons sambar podi
-1. 2 Tamilspoons plain red extra hot chili powder
+1. 2 teaspoons plain red extra hot chili powder
 1. 1 Tamilspoon tamarind concentrate
 1. salt
 
 ### Preparation
 1. Dice the red onion
+1. Dice the carrot
 1. Make sure your veg is bite sized otherwise you are gonna get sambar all over your face while you eat
 
 ### Steps
