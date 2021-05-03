@@ -13,7 +13,7 @@ Another staple Amma made growing up. This version is Appachi's twist, with omam 
 1. Cooking scale
 
 ### Ingredients
-1. 2 tbsp nay (clarified butter)
+1. 1 tsp nay (clarified butter)
 1. 454g green bean cut short
 1. 1 tbsp kadahu (black mustard seeds)
 1. 1 tbsp cumin seeds
@@ -29,7 +29,7 @@ Another staple Amma made growing up. This version is Appachi's twist, with omam 
 ### Steps
 1. Heat oil on medium high in a heavy bottom pan
 1. Add the black mustard seeds until they pop
-1. Once almost translucent, add the cumin seeds, omam seeds, and red chilies
+1. Once almost onion is translucent, add the cumin seeds, omam seeds, and red chilies
 1. Once those smell good (about 2 minutes), add the green beans
 1. Stir around until beans as soft as you like, about 7 minutes
 1. Add the salt
