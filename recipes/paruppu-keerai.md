@@ -14,7 +14,7 @@ This was our default dinner growing up - rice and paruppu. I added keerai becaus
 
 ### Ingredients
 #### Spice mix
-1. 2 tbsp nay (clarified butter)
+1. 2 tbsp ney (clarified butter)
 1. 1 tbsp kadahu (black mustard seeds)
 1. 1 tbsp jeera (cumin seeds)
 1. 3 red dried chillies split
@@ -23,7 +23,7 @@ This was our default dinner growing up - rice and paruppu. I added keerai becaus
 1. 15 curry leaves
 
 #### Paruppu
-1. 200g mysoor paruppu (red split lentils)
+1. 224g mysoor paruppu (red split lentils)
 1. Water (enough to cover lentils by 2 inches)
 1. 454g frozen chopped spinach
 1. 1 tsp tumeric
