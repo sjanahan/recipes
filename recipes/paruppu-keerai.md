@@ -19,7 +19,7 @@ This was our default dinner growing up - rice and paruppu. I added keerai becaus
 1. 1 tbsp jeera (cumin seeds)
 1. 3 red dried chillies split
 1. 1/2 white onion diced
-1. 4 cloves garlic diced
+1. 8 cloves garlic diced
 1. 15 curry leaves
 
 #### Paruppu
@@ -47,8 +47,9 @@ This was our default dinner growing up - rice and paruppu. I added keerai becaus
 1. Skim any foam that comes to the top
 1. Add the tumeric
 1. Stir until fully cooked, about 15 minutes
-1. Add the keerai and put a top on for 6 minutes until fully thawed
 1. Add the spice mix and salt to taste
+1. Add the keerai and put a top on for 8 minutes until fully thawed
+
 
 ##### Tags
 Amma, Tamil, Vegetarian
