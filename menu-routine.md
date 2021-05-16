@@ -36,9 +36,19 @@
 1. Cowpi
     * Onion, thai bird chili, setha milahai
 
+## Deli Sandwiches
+1. Ham
+    * sour cream & onion kettle chips, shredduce (optional), pickled jalapenos, mayo
+1. Roast Beef
+    * aged cheddar kettle chips, red onion, creamy horseradish
+1. Roasted Chicken
+    * flaming hot nacho doritos, mayo, portuguese roll
+1. Pastrami
+    * salt&pepper kettle chips, sauerkraut, thousand island, portguese roll
+
 ## Tacos
 1. Lamb Barbacoa 
-    * lamb shaldesblue corn tortilla
+    * lamb shank, greek yogurt, white onion, cilantro, salsa verde or roja, blue corn tortilla
 1. Red Beef Barbacoa
     * flour tortilla
 1. CCC Tri Tip
