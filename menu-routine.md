@@ -1,13 +1,14 @@
 # Daily
 ## Varai
 1. Cabbage
-    * Onion, mustard seed, green chili, fennel seeds, kadalai
+    * Onion, mustard seed, green chili, fennel seed, kadalai
 1. Keerai Kale
-    * Onion, mustard seed, cumin, fennel seeds, dried red chilies
+    * Onion, mustard seed, cumin seed, fennel seed, dried red chilies
 1. Zucchini & Bell Peppers
 1. Short bonechi (green plans)
 1. Snowpea & Carrots
 1. Cauliflower & Peas
+    * Onion, mustard seed, corainder powder, cumin powder, thai bird chili
 1. Asparagus
     * Sesame oil, soy sauce, crushed red
 
@@ -26,21 +27,22 @@
 
 ## Beans
 1. Black beans
-    * Toasted whole cumin seeds, onions, thai bird chillies
+    * Toasted whole cumin seed, onion, thai bird chillies
 1. Sundal kadalai
 1. Refried pinto beans
-    * Tomatoes, onions, jalapenos
+    * Tomato, onion, jalapeno
 1. Pink beans
-    * Bell peppers and thyme
+    * Onion, Bell peppers, thyme
 1. Cowpi
+    * Onion, thai bird chili, setha milahai
 
 ## Tacos
 1. Lamb Barbacoa 
-    * blue corn tortilla
+    * lamb shaldesblue corn tortilla
 1. Red Beef Barbacoa
     * flour tortilla
-1. Garlic Scallion CCC Tri Tip
-    * Green scallions, garlic, chipotle adobo salsa (homemade), flour tortilla
+1. CCC Tri Tip
+    * Cocoa Chipotle Coffee braised tri-tip, green scallions, garlic, chipotle adobo salsa (homemade), flour tortilla
 1. Chicken Sharwama
     * Taum, Lebanese pickles, cloud fries (optional), markouk bread
 1. Cochinita Pibil // TODO
@@ -56,5 +58,3 @@
 1. Goat Curry
     * Parotta or Veechu Roti
 1. Shrimp Noodles
-
-

@@ -39,7 +39,9 @@
 1. Bacon Black & Blue
     * 2 dry-aged 1/4 lb patties (from Pino's), bacon, blue cheese, caramelized onion mayo
 1. USA
-    * 2 dry-aged 1/4 lb patties (from Pino's), bacon, American cheese, white onion, fresh jalapenos, burger sauce on a sesame seed roll
+    * 2 dry-aged 1/4 lb patties (from Pino's), bacon, American cheese, white onion, sesame seed roll
+        1. fresh jalapenos, ghost pepper mayo
+        1. bread and butter pickles, burger sauce
 1. Cumin
     * 2 spiced lamb 1/4 patties (from Pino's), feta cheese, red onion, toasted cumin & tumeric mayo
 
