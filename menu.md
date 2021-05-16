@@ -30,7 +30,7 @@
 1. Red Beef Barbacoa
     * flour tortilla
 1. Garlic Scallion CCC Tri Tip
-    * flour tortilla
+    * Green scallions, garlic, and chipotle adobo salsa on a flour tortilla
 1. Cochinita Pibil // TODO
     * yellow corn tortilla
 1. Shrimp Aguachile // TODO
