@@ -17,12 +17,12 @@
     * yellow corn tostada
 1. Uuraippu Shrimp
 1. Crab Cakes
-1. Deviled Pork Belly (by Kitchen Guerrilla)
+1. Deviled Pork Belly (by Kitchen Guerrilla) // TODO
 1. UuRaippu shrimp fried rice
     * Samba rice, uraippu shrimp, scallions, garlic, curry leaves, Maagi seasoning
-1. Chicken Bulgogi fried rice
+1. Chicken Bulgogi fried rice // TODO
     * Kokuho rose rice, kimchi
-1. Jerk chicken
+1. Jerk chicken // TODO
     * White basmati red kidney beans coconut rice, coleslaw, Jamaican red sauce, fried plantains
 
 ## Pasta
@@ -60,7 +60,6 @@
 1. Grandma // TODO
 1. Puffy Naples // TODO
 1. Roman // TODO
-
 
 ## Bakery
 1. Hero (by Joe Rosenthaal) // TODO
