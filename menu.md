@@ -1,3 +1,4 @@
+# Daily
 ## Varai
 1. Cabbage
     * Onion, mustard seed, green chili, fennel seeds, kadalai
@@ -42,12 +43,8 @@
     * Green scallions, garlic, chipotle adobo salsa (homemade), flour tortilla
 1. Cochinita Pibil // TODO
     * pickled red onion, yellow corn tortilla
-1. Shrimp Aguachile // TODO
-    * yellow corn tostada
 1. Pulled Chicken // TODO
     * Oaxacan cheese, salsa verde, blue corn tortilla
-1. Fish tacos // TODO
-    * red cabbage, morita mayo, salsa Mexicana blue corn tortilla
 
 ## Tamil Mains
 1. Paruppu
@@ -58,33 +55,31 @@
     * Parotta or Veechu Roti
 1. Shrimp Noodles
 
-## Pasta
-1. Creamy Pesto
-    * cavatelli
-1. Mac and Cheese
-    * macaroni
-1. Vodka Basil
-    * rigatoni
-1. Cacio e pepe // TODO
-    * bucatini
+# To Order
+## Fried
+1. Cloud Fries
+    * Russet potatoes
+1. Salt and Pepper Squid (by NomLife)
+1. Hot Chicken Sandwich
+    * Toasted Martin's Seeded Big Bun
+1. Fish Filet (by Kitchen Guerrilla) // TODO
+    * Toasted Martin's Seedless Burger Bun
+1. Fish tacos // TODO
+    * red cabbage, morita mayo, salsa Mexicana blue corn tortilla
+1. Chicaronnes de Ribeye
 
-## Rice
+## Unfried
+1. Shrimp Aguachile // TODO
+    * yellow corn tostada
+1. Uuraippu Shrimp
+1. Crab Cakes
+1. Deviled Pork Belly (by Kitchen Guerrilla)
 1. UuRaippu shrimp fried rice
     * Samba rice, uraippu shrimp, scallions, garlic, curry leaves, Maagi seasoning
 1. Chicken Bulgogi fried rice
     * Kokuho rose rice, kimchi
 1. Jerk chicken
     * White basmati red kidney beans coconut rice, coleslaw, Jamaican red sauce, fried plantains
-
-## To Order
-1. Hot Chicken Sandwich
-    * Toasted Martin's Seeded Big Bun
-1. Fish Filet // TODO
-    * Toasted Martin's Seedless Burger Bun
-1. Cloud Fries
-    * Russet potatoes
-1. Uuraiopu Shrimp
-1. Crab Cakes
 
 ## Burgers
 1. Bacon Black & Blue
@@ -96,10 +91,13 @@
 
 ## Pizzas
 1. Bar
-    * Thin and crispy
+    * Thin and crispy in Lloyd's 14" pan
 1. Chicago Thin
+    * in Lloyd's 14" pan
 1. Stuffed Crust (by Pizza Hut)
+    * in Lloyd's 14" pan
 1. Pan (by Pizza Hut)
+    * in Lloyd's 14" pan
 1. NYC Style (by Joe Rosenthaal) // TODO
 1. Greek (New England)
 1. Detroit // TODO
@@ -108,6 +106,15 @@
 1. Puffy Naples // TODO
 1. Roman // TODO
 
+## Pasta
+1. Creamy Pesto
+    * cavatelli
+1. Mac and Cheese
+    * macaroni
+1. Vodka Basil
+    * rigatoni
+1. Cacio e pepe // TODO
+    * bucatini
 
 ## Bakery
 1. Hero (by Joe Rosenthaal) // TODO
