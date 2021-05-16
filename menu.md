@@ -1,6 +1,8 @@
 ## Varai
 1. Cabbage
+    * Onion, mustard seed, green chili, fennel seeds, kadalai
 1. Keerai Kale
+    * Onion, mustard seed, cumin, fennel seeds, dried red chilies
 1. Zucchini & Bell Peppers
 1. Short bonechi (green plans)
 1. Snowpea & Carrots
@@ -9,11 +11,17 @@
     * Sesame oil, soy sauce, crushed red
 
 ## Salads
-1. Kale Cesar
-1. Arugula & Parmesan
-1. Kale Greek
-1. Mesclun Mix & Avocado
-1. Blue cheese butter raddichio
+1. Cesar
+    * Baby Kale, flat filet anchovies, lemon juice
+1. Italian
+    * Arugula, lemon juice, olive oil
+1. Greek
+    * Baby Kale, Feta, lemon, olive oil, oregano, salt
+1. Mexican 
+    * Mesclun Mix, avocado, lime, salt
+1. Blue cheese
+    * Butter lettuce & raddichio, white vinegar, blue cheese, black pepper
+
 
 ## Beans
 1. Black beans
@@ -23,6 +31,7 @@
     * Tomatoes, onions, jalapenos
 1. Pink beans
     * Bell peppers and thyme
+1. Cowpi
 
 ## Tacos
 1. Lamb Barbacoa 
@@ -30,13 +39,15 @@
 1. Red Beef Barbacoa
     * flour tortilla
 1. Garlic Scallion CCC Tri Tip
-    * Green scallions, garlic, and chipotle adobo salsa on a flour tortilla
+    * Green scallions, garlic, chipotle adobo salsa (homemade), flour tortilla
 1. Cochinita Pibil // TODO
-    * yellow corn tortilla
+    * pickled red onion, yellow corn tortilla
 1. Shrimp Aguachile // TODO
     * yellow corn tostada
-1. Pulled Chicken
-    * salsa verde, blue corn tortilla
+1. Pulled Chicken // TODO
+    * Oaxacan cheese, salsa verde, blue corn tortilla
+1. Fish tacos // TODO
+    * red cabbage, morita mayo, salsa Mexicana blue corn tortilla
 
 ## Tamil Mains
 1. Paruppu
@@ -51,38 +62,59 @@
 1. Creamy Pesto
     * cavatelli
 1. Mac and Cheese
-    * 
+    * macaroni
 1. Vodka Basil
     * rigatoni
 1. Cacio e pepe // TODO
-    * 
+    * bucatini
 
 ## Rice
 1. UuRaippu shrimp fried rice
-    * Samba rice
-1. Chicken Bulgogi fried
-    * Kokuho rose rice
+    * Samba rice, uraippu shrimp, scallions, garlic, curry leaves, Maagi seasoning
+1. Chicken Bulgogi fried rice
+    * Kokuho rose rice, kimchi
 1. Jerk chicken
-    * White basmati coconut rice with red kidney beans
+    * White basmati red kidney beans coconut rice, coleslaw, Jamaican red sauce, fried plantains
 
-## Fried Specialties
+## To Order
 1. Hot Chicken Sandwich
     * Toasted Martin's Seeded Big Bun
 1. Fish Filet // TODO
     * Toasted Martin's Seedless Burger Bun
 1. Cloud Fries
+    * Russet potatoes
+1. Uuraiopu Shrimp
+1. Crab Cakes
 
+## Burgers
+1. Bacon Black & Blue
+    * 2 dry-aged 1/4 lb patties (from Pino's), bacon, blue cheese, caramelized onion mayo
+1. USA
+    * 2 dry-aged 1/4 lb patties (from Pino's), bacon, American cheese, white onion, fresh jalapenos, burger sauce on a sesame seed roll
+1. Cumin
+    * 2 spiced lamb 1/4 patties (from Pino's), feta cheese, red onion, toasted cumin & tumeric mayo
 
 ## Pizzas
 1. Bar
     * Thin and crispy
-1. NYC Style // TODO
+1. Chicago Thin
+1. Stuffed Crust (by Pizza Hut)
+1. Pan (by Pizza Hut)
+1. NYC Style (by Joe Rosenthaal) // TODO
+1. Greek (New England)
 1. Detroit // TODO
 1. Silician // TODO
 1. Grandma // TODO
+1. Puffy Naples // TODO
+1. Roman // TODO
 
-## Baked Goods
-1. Hero (by Joe Rosenthaal)
-1. Maseca Corn Tortillas
-1. Sonoran Flour Tortillas
-1. Roast Paan (by Suhasini)
+
+## Bakery
+1. Hero (by Joe Rosenthaal) // TODO
+1. Maseca Corn Tortilla // TODO
+1. Sonoran Flour Tortilla // TODO
+1. Roast Paan (by Suhasini) // TODO
+1. Parotta
+1. Veechu Roti
+1. Sutra Roti // TODO
+1. Thosai
