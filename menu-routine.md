@@ -50,9 +50,9 @@
 
 ## Tamil Mains
 1. Paruppu
-    * Sivappu SooRu
+    * Sivappu SooRu, lime pickle
 1. Sambar
-    * Jasmine Rice
+    * Jasmine Rice, poritcha milahai
 1. Goat Curry
     * Parotta or Veechu Roti
 1. Shrimp Noodles
