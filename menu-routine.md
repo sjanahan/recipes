@@ -5,7 +5,7 @@
 1. Keerai Kale
     * Onion, mustard seed, cumin seed, fennel seed, dried red chilies
 1. Zucchini & Bell Peppers
-1. Short bonechi (green plans)
+1. Short bonechi (green beans)
 1. Snowpea & Carrots
 1. Cauliflower & Peas
     * Onion, mustard seed, corainder powder, cumin powder, thai bird chili
@@ -23,7 +23,6 @@
     * Mesclun Mix, avocado, lime, salt
 1. Bleu
     * Butter lettuce & raddichio, white vinegar, blue cheese, black pepper
-
 
 ## Beans
 1. Black beans
@@ -51,8 +50,8 @@
     * lamb shank, greek yogurt, white onion, cilantro, salsa verde or roja, blue corn tortilla
 1. Red Beef Barbacoa
     * flour tortilla
-1. CCC Tri Tip
-    * Cocoa Chipotle Coffee braised tri-tip, green scallions, garlic, chipotle adobo salsa (homemade), flour tortilla
+1. Trip-C Tri-Tip
+    * Cocoa Chipotle Coffee braised tri-tip, green scallions, garlic, chipotle adobo salsa, flour tortilla
 1. Chicken Sharwama
     * Taum, Lebanese pickles, cloud fries (optional), markouk bread
 1. Cochinita Pibil // TODO
