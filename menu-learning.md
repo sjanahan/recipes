@@ -8,7 +8,7 @@
 1. Fish Filet (by Kitchen Guerrilla) // TODO
     * Toasted Martin's Seedless Burger Bun
 1. Fish tacos // TODO
-    * Red cabbage, morita mayo, salsa Mexicana blue corn tortilla
+    * Red cabbage, morita mayo, salsa Mexicana, blue corn tortilla
 1. Chicaronnes de Ribeye
     * Avocado
 
@@ -48,13 +48,12 @@
 ## Pizzas
 1. Bar
     * Thin and crispy in Lloyd's 14" pan
-1. Chicago Thin
-    * in Lloyd's 14" pan
 1. Stuffed Crust (by Pizza Hut)
     * in Lloyd's 14" pan
 1. Pan (by Pizza Hut)
     * in Lloyd's 14" pan
 1. NYC Style (by Joe Rosenthaal) // TODO
+1. Chicago Thin // TODO
 1. Greek (New England)
 1. Detroit // TODO
 1. Silician // TODO

@@ -13,15 +13,15 @@
     * Sesame oil, soy sauce, crushed red
 
 ## Salads
-1. Cesar
-    * Baby Kale, flat filet anchovies, lemon juice
+1. Kale Cesar
+    * Baby Kale, flat filet anchovies, anchovy oil, lemon juice
 1. Italian
     * Arugula, lemon juice, olive oil
-1. Greek
+1. Kale Greek
     * Baby Kale, Feta, lemon, olive oil, oregano, salt
-1. Mexican 
+1. Margarita 
     * Mesclun Mix, avocado, lime, salt
-1. Blue cheese
+1. Bleu
     * Butter lettuce & raddichio, white vinegar, blue cheese, black pepper
 
 
