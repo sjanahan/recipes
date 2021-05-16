@@ -24,6 +24,8 @@
     * Kokuho rose rice, kimchi
 1. Jerk chicken // TODO
     * White basmati red kidney beans coconut rice, coleslaw, Jamaican red sauce, fried plantains
+1. Carne Asada Tacos
+    * Guacamole salsa, white onion, cilantro, flour tortilla
 
 ## Pasta
 1. Creamy Pesto
