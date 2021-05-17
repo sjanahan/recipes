@@ -51,7 +51,7 @@
     * 2 spiced lamb 1/4 patties (from Pino's), feta cheese, red onion, toasted cumin & tumeric mayo
 
 ## Pizzas
-1. Bar
+1. Bar (By Notorious PIE)
     * Thin and crispy in Lloyd's 14" pan
 1. Stuffed Crust (by Pizza Hut)
     * in Lloyd's 14" pan
