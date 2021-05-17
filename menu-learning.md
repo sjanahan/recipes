@@ -29,6 +29,8 @@
     * White basmati red kidney beans coconut rice, coleslaw, Jamaican red sauce, fried plantains
 1. Carne Asada Tacos
     * Guacamole salsa, white onion, cilantro, flour tortilla
+1. Mutton Koththu Roti
+    * Red onion, thai chillies, curry leaves, shrimp paste, vaasa thool. chili paste, egg, veechu roti, lime
 
 ## Pasta
 1. Creamy Pesto
