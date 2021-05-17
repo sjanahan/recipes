@@ -1,12 +1,15 @@
 # To Order
 ## Fried
-1. Cloud Fries
-    * Russet potatoes
+1. Cloud Fries (Russet potatoes)
+    * Neruppu Mayo
+    * Maggi Masala Chili
+    * Franks Red Hot & Sriracha Half and Half
+    * Cheez sauce
 1. Salt and Pepper Squid (by NomLife)
 1. Hot Chicken Sandwich
-    * Toasted Martin's Seeded Big Bun
+    * Cayenne, Smoked ghost chili, bread and butter pickle, Toasted Martin's Seeded Big Bun
 1. Fish Filet (by Kitchen Guerrilla) // TODO
-    * Toasted Martin's Seedless Burger Bun
+    * American cheese, tartar sauce, Toasted Martin's Seedless Burger Bun
 1. Fish tacos // TODO
     * Red cabbage, morita mayo, salsa Mexicana, blue corn tortilla
 1. Chicaronnes de Ribeye
