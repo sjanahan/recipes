@@ -8,7 +8,8 @@
     * onion, cumin seed, dry red chilies
 1. Short bonechi (green beans)
     * ghee, black mustard seed, omam seed, cumin seed, dry red chili
-1. Snowpea & Carrots // TODO
+1. Snowpea & Carrots
+    * onion, garlic, ginger, cumin, dry red chili, omam seed
 1. Cauliflower & Peas
     * Onion, mustard seed, corainder powder, cumin powder, thai bird chili
 1. Asparagus
@@ -22,15 +23,15 @@
 1. Kale Greek
     * Baby Kale, Feta, lemon, olive oil, Greek oregano, salt
 1. Aguacate 
-    * Mesclun Mix, avocado, lime, salt
+    * mesclun mix, avocado, lime, salt
 1. Bleu
-    * Butter lettuce & raddichio, white balsamic vinegar, blue cheese dressing, blue cheese, black pepper
+    * butter lettuce & raddichio, white balsamic vinegar, blue cheese dressing, blue cheese, black pepper
 
 ## Beans
 1. Black beans
     * Toasted whole cumin seed, onion, thai bird chillies
 1. Sundal kadalai
-    * black mustard seed, dry red chili, extra hot chili powder, curry leaf
+    * coconut oil, black mustard seed, dry red chili, extra hot chili powder, curry leaf
 1. Refried pinto beans
     * Big Tomato, onion, jalapeno, garlic
 1. Pink beans
@@ -52,17 +53,17 @@
 1. Lamb Barbacoa (by Mexico in my Kitchen)
     * lamb shank, greek yogurt, white onion, cilantro, salsa verde or roja, blue corn tortilla
 1. Red Beef Barbacoa (by Mexico in my Kitchen)
-    * flour tortilla
+    * shank, flour tortilla
 1. Trip-C Tri-Tip
-    * Cocoa Chipotle Coffee braised tri-tip, green scallions, garlic, chipotle adobo salsa, flour tortilla
+    * Cocoa Chipotle Coffee braised beef tri-tip, green scallions, garlic, chipotle adobo salsa, flour tortilla
 1. Chicken Sharwama (by SpicedNice)
-    * Taum, Lebanese pickles, cloud fries (optional), markouk bread
+    * thigh/breast, taum, Lebanese pickles, cloud fries (optional), markouk bread
 1. Cochinita Pibil // TODO
-    * pickled red onion, green habanero hot sauce, yellow corn tortilla
+    * pork shank, pickled red onion, green habanero hot sauce, yellow corn tortilla
 1. Pulled Chicken // TODO
-    * Oaxacan cheese, salsa verde, blue corn tortilla
+    * breast, Oaxacan cheese, salsa verde, blue corn tortilla
 1. Al Pastor // TODO
-    * onion, cilantro, KG Pineapple Habanero sauce, yellow corn tortilla
+    * pork shoulder, onion, cilantro, KG Pineapple Habanero sauce, yellow corn tortilla
 
 ## Tamil Mains
 1. Paruppu

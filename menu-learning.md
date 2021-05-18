@@ -3,20 +3,21 @@
 1. Cloud Fries (Russet potatoes)
     * Neruppu Mayo
     * Maggi Masala Chili
-    * Franks Red Hot & Sriracha Half and Half
+    * Franks Red Hot & Sriracha; 1:1
     * Cheez sauce
 1. Salt and Pepper Squid (by NomLife)
+    * Tapioca stach
 1. Hot Chicken Sandwich
     * Cayenne, Smoked ghost chili, bread and butter pickle, Toasted Martin's Seeded Big Bun
 1. Fish Filet (by Kitchen Guerrilla) // TODO
     * American cheese, tartar sauce, Toasted Martin's Seedless Burger Bun
 1. Fish tacos // TODO
-    * Red cabbage, morita mayo, salsa Mexicana, blue corn tortilla
+    * avocado, red cabbage, morita mayo, salsa Mexicana, blue corn tortilla
 1. Chicaronnes de Ribeye
     * Avocado
 1. Naked Wings
     * Lemon juiced brine, salt, pepper, garlic powder, smoked paprika
-    * (Optional sauce) Louisiana/Frank's Red Hot, butter, salt, pepper, garlic powder, smoked paprika, crushed red peppers
+    * (Optional sauce) Louisiana/Frank's Red Hot, butter, salt, pepper, garlic powder, smoked paprika, crushed red pepper
 
 ## Unfried
 1. Shrimp Aguachile // TODO
