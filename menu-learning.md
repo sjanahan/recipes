@@ -14,6 +14,9 @@
     * Red cabbage, morita mayo, salsa Mexicana, blue corn tortilla
 1. Chicaronnes de Ribeye
     * Avocado
+1. Naked Wings
+    * Lemon juiced brine, salt, pepper, garlic powder, smoked paprika
+    * (Optional sauce) Louisiana/Frank's Red Hot, butter, salt, pepper, garlic powder, smoked paprika, crushed red peppers
 
 ## Unfried
 1. Shrimp Aguachile // TODO
@@ -22,11 +25,11 @@
 1. Crab Cakes
 1. Deviled Pork Belly (by Kitchen Guerrilla) // TODO
 1. UuRaippu shrimp fried rice
-    * Samba rice, uraippu shrimp, scallions, garlic, curry leaves, Maagi seasoning
+    * Samba rice, uraippu shrimp, scallions, garlic, curry leaves, Maggi seasoning
 1. Chicken Bulgogi fried rice // TODO
     * Kokuho rose rice, kimchi
 1. Jerk chicken // TODO
-    * White basmati red kidney beans coconut rice, coleslaw, Jamaican red sauce, fried plantains
+    * White basmati red kidney beans coconut rice, coleslaw, Jamaican red sauce, fried plantain
 1. Carne Asada Tacos
     * Guacamole salsa, white onion, cilantro, flour tortilla
 1. Mutton Koththu Roti
