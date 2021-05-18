@@ -49,20 +49,20 @@
     * salt&pepper kettle chips, sauerkraut, thousand island, portguese roll/rye bread
 
 ## Tacos
-1. Lamb Barbacoa 
+1. Lamb Barbacoa (by Mexico in my Kitchen)
     * lamb shank, greek yogurt, white onion, cilantro, salsa verde or roja, blue corn tortilla
-1. Red Beef Barbacoa
+1. Red Beef Barbacoa (by Mexico in my Kitchen)
     * flour tortilla
 1. Trip-C Tri-Tip
     * Cocoa Chipotle Coffee braised tri-tip, green scallions, garlic, chipotle adobo salsa, flour tortilla
-1. Chicken Sharwama
+1. Chicken Sharwama (by SpicedNice)
     * Taum, Lebanese pickles, cloud fries (optional), markouk bread
 1. Cochinita Pibil // TODO
     * pickled red onion, green habanero hot sauce, yellow corn tortilla
 1. Pulled Chicken // TODO
     * Oaxacan cheese, salsa verde, blue corn tortilla
 1. Al Pastor // TODO
-    * onion, cilantro, Pineapple Habanero sauce, yellow corn tortilla
+    * onion, cilantro, KG Pineapple Habanero sauce, yellow corn tortilla
 
 ## Tamil Mains
 1. Paruppu

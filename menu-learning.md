@@ -21,7 +21,7 @@
 ## Unfried
 1. Shrimp Aguachile // TODO
     * yellow corn tostada
-1. Uuraippu Shrimp
+1. Uuraippu Shrimp (by KG)
 1. Crab Cakes
 1. Deviled Pork Belly (by Kitchen Guerrilla) // TODO
 1. UuRaippu shrimp fried rice
@@ -37,17 +37,19 @@
 
 ## Pasta
 1. Creamy Pesto
-    * cavatelli
+    * cavatelli, mushroom, cream
 1. Mac and Cheese
-    * macaroni
+    * macaroni, cream, sharp cheddar
 1. Vodka Basil
-    * rigatoni
+    * rigatoni, crushed tomato, cream
 1. Cacio e pepe // TODO
-    * bucatini
+    * bucatini, pecorino, black peppers
+1. Miso crab mac and cheese
+    * small shell, monterrey jack
 
 ## Burgers
-1. Bacon Black & Blue
-    * 2 dry-aged 1/4 lb patties (from Pino's), bacon, blue cheese, caramelized onion mayo
+1. Bacon Black & Blue (inspired by SoNo Brewhaus)
+    * 2 dry-aged 1/4 lb patties (from Pino's), bacon, blue cheese, caramelized onion mayo, pretzel bun/sesame seed roll
 1. USA
     * 2 dry-aged 1/4 lb patties (from Pino's), bacon, American cheese, white onion, sesame seed roll
         1. fresh jalapenos, ghost pepper mayo
@@ -63,7 +65,7 @@
 1. Pan (by Pizza Hut)
     * in Lloyd's 14" pan
 1. NYC Style (by Joe Rosenthaal) // TODO
-1. Chicago Thin // TODO
+1. Chicago Thin (by Emmett's) // TODO
 1. Greek (New England)
 1. Detroit // TODO
 1. Silician // TODO
@@ -76,7 +78,8 @@
 1. Maseca Corn Tortilla // TODO
 1. Sonoran Flour Tortilla // TODO
 1. Roast Paan (by Suhasini) // TODO
-1. Parotta
-1. Veechu Roti
+1. Parotta (by KG)
+1. Veechu Roti (by KG)
 1. Sutra Roti // TODO
-1. Thosai
+1. Thosai (by Appachi/Amma)
+1. தேங்காய் ரொட்டி (by Amma)

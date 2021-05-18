@@ -13,7 +13,7 @@ During the Rona pandemic I panic bought a bunch of frozen bell peppers and I nee
 1. Cooking scale
 
 ### Ingredients
-1. 2 tbsp (28g) oil
+1. 1 tsp (5g) oil
 1. 1/2 diced red onion
 1. 1 tbsp cumin seeds
 1. 3 dried red chilies split
