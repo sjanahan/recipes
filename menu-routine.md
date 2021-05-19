@@ -19,7 +19,7 @@
 1. Kale Cesar
     * Baby Kale, flat filet anchovies, anchovy oil, cesar dressing, lemon juice
 1. Italian
-    * Arugula, lemon juice, olive oil
+    * Arugula, parmesan, lemon juice, olive oil
 1. Kale Greek
     * Baby Kale, Feta, lemon, olive oil, Greek oregano, salt
 1. Aguacate 
