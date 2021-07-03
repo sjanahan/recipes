@@ -76,7 +76,7 @@
 1. Roman // TODO
 
 ## Bakery
-1. Hero (by Joe Rosenthaal) // TODO
+1. Hoagie (by Joe Rosenthaal) // TODO
 1. Maseca Corn Tortilla // TODO
 1. Sonoran Flour Tortilla // TODO
 1. Roast Paan (by Suhasini) // TODO
