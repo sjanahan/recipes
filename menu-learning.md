@@ -38,15 +38,16 @@
 
 ## Pasta
 1. Creamy Pesto
-    * cavatelli, mushroom, cream
+    * cavatelli, pesto, sauteed mushroom, cream
 1. Mac and Cheese
-    * macaroni, cream, sharp cheddar
+    1. macaroni, cream, sharp cheddar
+    2. small shells, cream, miso, monterrey jack
 1. Vodka Basil
-    * rigatoni, crushed tomato, cream
-1. Cacio e pepe // TODO
-    * bucatini, pecorino, black peppers
-1. Miso crab mac and cheese
-    * small shell, monterrey jack
+    * rigatoni, crushed tomato, cream, basil
+1. Cacio e pepe
+    * (bucatini/cascatelli), pecorino, black pepper
+1. Arribiata
+    * olive oil, penne, garlic, thai red chili, crushed tomato, parsley
 
 ## Burgers
 1. Bacon Black & Blue (inspired by SoNo Brewhaus)
