@@ -13,7 +13,7 @@
 1. Cauliflower & Peas
     * Onion, mustard seed, corainder powder, cumin powder, thai bird chili
 1. Asparagus
-    * Sesame oil, soy sauce, crushed red
+    * Sesame oil, soy sauce, crushed red chillies
 
 ## Salads
 1. Kale Cesar
