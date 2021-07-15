@@ -23,7 +23,7 @@
 1. Kale Greek
     * Baby Kale, Feta, lemon, olive oil, Greek oregano, salt
 1. Aguacate 
-    * mesclun mix, avocado, lime, salt
+    * mesclun mix, avocado, red onion, lime, salt
 1. Bleu
     * butter lettuce & raddichio, white balsamic vinegar, blue cheese dressing, blue cheese, black pepper
 
@@ -33,7 +33,7 @@
 1. Sundal kadalai
     * coconut oil, black mustard seed, dry red chili, extra hot chili powder, curry leaf
 1. Refried pinto beans
-    * Big Tomato, onion, jalapeno, garlic
+    * Bacon, onion, chili
 1. Pink beans
     * Onion, Bell peppers, thyme
 1. Cowpi
@@ -63,7 +63,9 @@
 1. Pulled Chicken // TODO
     * breast, Oaxacan cheese, salsa verde, blue corn tortilla
 1. Al Pastor // TODO
-    * pork shoulder, onion, cilantro, KG Pineapple Habanero sauce, yellow corn tortilla
+    * pork shoulder/chicken thigh, onion, cilantro, KG Pineapple Habanero sauce, yellow corn tortilla
+1. Pulled Chicken Flatua
+    * breast, shredduce, 0% greek yogurt, queso fresca, yellow corn tortilla
 
 ## Tamil Mains
 1. Paruppu
