@@ -34,14 +34,14 @@
 1. Carne Asada Tacos
     * Guacamole salsa, white onion, cilantro, flour tortilla
 1. Mutton Koththu Roti
-    * Red onion, thai chillies, curry leaves, shrimp paste, vaasa thool. chili paste, egg, veechu roti, lime
+    * Red onion, thai chillies, curry leaves, shrimp paste, vaasa thool, chili paste, egg, veechu roti, lime
 
 ## Pasta
 1. Creamy Pesto
     * cavatelli, pesto, sauteed mushroom, cream
 1. Mac and Cheese
-    1. macaroni, cream, sharp cheddar
-    2. small shells, cream, miso, monterrey jack
+    1. macaroni, evaporated milk, sharp cheddar
+    2. small shells, blue crab, evaporated milk, miso, monterrey jack
 1. Vodka Basil
     * rigatoni, crushed tomato, cream, basil
 1. Cacio e pepe
