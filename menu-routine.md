@@ -53,7 +53,7 @@
 1. Lamb Barbacoa (by Mexico in my Kitchen)
     * lamb shank, greek yogurt, white onion, cilantro, salsa verde or roja, blue corn tortilla
 1. Red Beef Barbacoa (by Mexico in my Kitchen)
-    * shank, flour tortilla
+    * shank, flour tortilla, 
 1. Trip-C Tri-Tip
     * Cocoa Chipotle Coffee braised beef tri-tip, green scallions, garlic, chipotle adobo salsa, flour tortilla
 1. Chicken Sharwama (by SpicedNice)
@@ -61,11 +61,11 @@
 1. Cochinita Pibil // TODO
     * pork shank, pickled red onion, green habanero hot sauce, yellow corn tortilla
 1. Pulled Chicken // TODO
-    * breast, Oaxacan cheese, salsa verde, blue corn tortilla
+    * breast, Oaxacan cheese, salsa verde, salsa roja, blue corn tortilla
 1. Al Pastor // TODO
     * pork shoulder/chicken thigh, onion, cilantro, KG Pineapple Habanero sauce, yellow corn tortilla
 1. Pulled Chicken Flatua
-    * breast, shredduce, 0% greek yogurt, queso fresca, yellow corn tortilla
+    * breast, shredduce, 0% greek yogurt, queso fresca, white corn tortilla
 
 ## Tamil Mains
 1. Paruppu
