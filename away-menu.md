@@ -14,17 +14,19 @@ This menu is themed by dishes and flavors inspired by eating out - whether that 
     * butter lettuce & raddichio, white balsamic vinegar, blue cheese dressing, blue cheese, black pepper
 
 ## Pasta
-1. Creamy Pesto
+1. Creamy Pesto (Napoli's in Hoboken)
     * cavatelli, pesto, sauteed mushroom, pasta water, cream
 1. Mac and Cheese
     1. macaroni, evaporated milk, sharp cheddar
     2. small shells, blue crab, evaporated milk, miso, monterrey jack
 1. Vodka Basil
-    * rigatoni, crushed tomato, cream, pasta water, basil
+    * rigatoni, tomato paste, cream, pasta water, basil
 1. Cacio e pepe
     * (bucatini/cascatelli), pecorino, black pepper, pasta water
 1. Arribiata
     * olive oil, penne, garlic, thai red chili, crushed tomato, parsley
+1. Puttanesca
+    * anchovy oil, anchovy, black olive, crushed tomato, oregano
 
 ## Veg Proteins
 1. Black beans

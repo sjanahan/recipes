@@ -2,21 +2,21 @@
 This menu is themed by dishes and flavors inspired by eating close to home - whether that be Amma's, Appachi's, relatives, Kitchen Guerrilla, or Tamil kadai food. These are the flavors that make me feel included and I intend to pay that feeling forward to my loved ones.
 
 ## Varai
-1. Cabbage
+1. Cabbage (Appachi)
     * Diced onion, mustard seed, green chili, fennel seed, kadalai
-1. Keerai Kale
+1. Keerai Kale (Amma)
     * Diced onion, mustard seed, cumin seed, fennel seed, dry red chili
-1. Zucchini & Bell Peppers
+1. Zucchini & Bell Peppers (Appachi)
     * Diced onion, cumin seed, dry red chilies
 1. Short bonechi (green beans)
     * ghee, diced onion, black mustard seed, omam seed, cumin seed, dry red chili
-1. Snowpea & Carrots
+1. Snowpea & Carrots (Appachi)
     * diced onion, garlic, ginger, cumin, dry red chili, omam seed
-1. Cauliflower & Peas
+1. Cauliflower & Peas (Appachi)
     * Diced Onion, mustard seed, corainder powder, cumin powder, thai bird chili
-1. Asparagus
+1. Asparagus (Amma)
     * Sesame oil, soy sauce, crushed red chillies
-1. Cauliflower & Broccoli & Mushrooms
+1. Cauliflower & Broccoli & Mushrooms (Amma)
     * Leeks/onions, sesame oil, soy sauce, crushed red chillies
 
 ## Veg Proteins
@@ -26,6 +26,7 @@ This menu is themed by dishes and flavors inspired by eating close to home - whe
     * Onion, thai bird chili, setha milaha, coconut meat
 1. Paruppu
 1. Sambar
+1. Kadalai (Amma's)
 
 ## Meats/Seafood
 1. இரால் கறி | Shrimp (pirattal/curry/kuzhumbu)
@@ -69,7 +70,7 @@ This menu is themed by dishes and flavors inspired by eating close to home - whe
 1. Red pol sambol
 1. Green pol sambol
 1. Mango, tomato salad (summer)
-1. Red onion, chili, and lemon salad
+1. Red onion, chili, and lemon salad (Natasha's wedding)
 1. Poritcha milahai
 
 
