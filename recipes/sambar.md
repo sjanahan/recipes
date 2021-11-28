@@ -21,8 +21,9 @@ We always joke this is Amma's favorite dish. It's a great way to use up any left
 1. 140 g diced carrot
 1. 2 tsp tumeric
 1. 3 Tamilspoons sambar podi
-1. 2 teaspoons plain red extra hot chili powder
+1. 1 teaspoons plain red extra hot chili powder
 1. 1 Tamilspoon tamarind concentrate
+1. Lime
 1. salt
 
 ### Preparation
