@@ -93,7 +93,10 @@ This menu is themed by dishes and flavors inspired by eating out - whether that 
 ## Meats
 1. Chicarron de Ribeye (CDMX)
 1. Crab cakes
-1. Chicken Bulgogi
+1. Chicken Bulgogi (Manhattan Korean Town)
+1. Chicken breast sauteed
+    * pat dry
+    * avocado oil, salt, pepper, garlic powder, mushroom powder
 
 ## Flour Foods
 1. Hoagie (by Joe Rosenthaal) // TODO
