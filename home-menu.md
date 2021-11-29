@@ -63,6 +63,7 @@ This menu is themed by dishes and flavors inspired by eating close to home - whe
 1. Puttu // TODO
 1. Uppuma
 1. Idli (by Amma)
+1. [Appam](recipes/appam.md)
 
 ## Condiments
 1. Lime pickle
