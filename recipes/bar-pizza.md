@@ -7,15 +7,6 @@
 ### Why this Dish?
 Reminds me of Colony Pizza in Stamford, CT. I lived there in the early 10s. Crunchy on the bottom, light on the toppings, tiny pools of oil on top. No edge crust, cheese to the edge of the world. Recipe is Notorious PIE's.
 
-**Video ideas**
-* How to get 120F water
-* How to measure .4g IDY
-* How to stretch the dough
-* How to ball the dough
-* How to make pizza sauce
-* How to cheese the pizza properly 
-    * Concentrated on the edge more than center
-
 ### Tools
 1. 14 inch Lloyd's cutter pan
 1. Dough docker
@@ -112,3 +103,11 @@ Reminds me of Colony Pizza in Stamford, CT. I lived there in the early 10s. Crun
 1. Remove when lightly browned
 
 ##### Tags
+**Video ideas**
+* How to get 120F water
+* How to measure .4g IDY
+* How to stretch the dough
+* How to ball the dough
+* How to make pizza sauce
+* How to cheese the pizza properly 
+    * Concentrated on the edge more than center
