@@ -4,7 +4,7 @@ img {
     max-height: 100vh;
     height: auto;
 }
-<img src="../images/bar-pizza.png" width="200" height="350" />
+<img src="../images/bar-pizza.png" width="100%" height="auto" />
 
 
 [*Future YouTube Link*]()
