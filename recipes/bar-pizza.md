@@ -1,5 +1,6 @@
 # Bar Pizza
-![Images](../images/bar-pizza.png)
+<img src="../images/bar-pizza.png" width="200" height="350" />
+
 
 [*Future YouTube Link*]()
 
