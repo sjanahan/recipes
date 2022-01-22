@@ -1,5 +1,5 @@
 # Bar Pizza
-<img src="../images/bar-pizza.png" width="100%" height="auto" />
+<img src="../images/bar-pizza.png" max-width="100%" max-height="100vh" height="auto" />
 
 
 [*Future YouTube Link*]()
