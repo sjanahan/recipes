@@ -106,7 +106,7 @@ This menu is themed by dishes and flavors inspired by eating out - whether that 
     * Hot water - 135% hydration
 
 ## Pizzas
-1. Bar | Thin and crispy  (By Notorious PIE)
+1. [Bar | Thin and crispy  (By Notorious PIE)](recipes/bar-pizza.md)
     * in Lloyd's 14" pan
 1. Stuffed Crust (by Pizza Hut)
     * 2:1 milk to water
@@ -130,7 +130,7 @@ This menu is themed by dishes and flavors inspired by eating out - whether that 
 1. Salsa roja
 1. Salsa aguacate
 1. Salsa habanero
-1. Burger Sauce (from Cesar)
+1. [Burger Sauce](recipes/burger-sauce.md) (from Cesar)
 1. Pizza sauce (adapted from Notorious PIE)
 
 
