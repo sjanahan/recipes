@@ -1,5 +1,5 @@
 # Bar Pizza
-![Images](../images/bar-pizza.jpg)
+![Images](../images/bar-pizza.png)
 
 [*Future YouTube Link*]()
 
