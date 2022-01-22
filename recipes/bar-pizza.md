@@ -1,9 +1,4 @@
 # Bar Pizza
-img {
-    max-width: 100%;
-    max-height: 100vh;
-    height: auto;
-}
 <img src="../images/bar-pizza.png" width="100%" height="auto" />
 
 
